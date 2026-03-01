@@ -1,0 +1,1220 @@
+client_id,total_trans,total_spent,fraud_count,top_category
+0,12795,625799.67,6,Drinking Places (Alcoholic Beverages)
+1,10073,336187.37,13,Taxicabs and Limousines
+2,10612,291534.27,3,Motor Freight Carriers and Trucking
+3,6001,280685.46,17,Wholesale Clubs
+4,15043,595722.36,17,Eating Places and Restaurants
+5,4777,292902.6,20,Service Stations
+11,9994,585903.46,8,Eating Places and Restaurants
+13,7109,242998.23,4,Drinking Places (Alcoholic Beverages)
+14,5843,233831.77,17,Service Stations
+16,6829,378672.72,7,Theatrical Producers
+17,17719,793586.04,12,"Grocery Stores, Supermarkets"
+19,3268,54420.25,3,Drug Stores and Pharmacies
+20,11240,280935.52,30,Miscellaneous Food Stores
+21,8783,289834.49,13,Service Stations
+22,2979,97891.4,12,Tolls and Bridge Fees
+24,8682,358963.05,15,Miscellaneous Food Stores
+27,9784,413891.13,45,Service Stations
+28,6571,409356.92,3,Service Stations
+32,8402,317816.06,5,Tolls and Bridge Fees
+33,10746,520819.9,1,"Grocery Stores, Supermarkets"
+34,14582,766659.22,5,Money Transfer
+37,15275,399399.8,1,Service Stations
+38,13629,512966.48,10,Tolls and Bridge Fees
+39,15212,887819.44,4,Tolls and Bridge Fees
+40,6478,175990.65,7,Drug Stores and Pharmacies
+42,8602,223104.23,4,Eating Places and Restaurants
+44,8020,352838.76,11,Money Transfer
+45,6229,80018.39,4,Taxicabs and Limousines
+46,9433,439052.25,28,"Grocery Stores, Supermarkets"
+47,11153,321807.32,4,"Grocery Stores, Supermarkets"
+48,7860,262495.97,8,"Grocery Stores, Supermarkets"
+50,6812,258785.53,2,Service Stations
+51,8335,396436.35,2,"Grocery Stores, Supermarkets"
+52,20949,1535007.8,8,"Grocery Stores, Supermarkets"
+53,23922,723073.38,9,Tolls and Bridge Fees
+55,13943,294372.93,10,Miscellaneous Food Stores
+57,10679,436908.16,0,Miscellaneous Food Stores
+58,6635,361561.45,14,Taxicabs and Limousines
+59,11606,329980.34,10,Miscellaneous Food Stores
+60,10233,612451.4,25,"Grocery Stores, Supermarkets"
+61,12112,759927.53,3,"Grocery Stores, Supermarkets"
+62,13263,400911.12,35,Eating Places and Restaurants
+63,15536,323080.49,24,Tolls and Bridge Fees
+64,9068,551051.88,11,"Grocery Stores, Supermarkets"
+65,8778,330165.3,0,Drinking Places (Alcoholic Beverages)
+68,11902,690373.45,9,Money Transfer
+69,8470,254312.16,32,"Grocery Stores, Supermarkets"
+73,6651,521226.27,5,"Grocery Stores, Supermarkets"
+74,4636,215669.21,10,Eating Places and Restaurants
+75,10325,417782.22,2,Tolls and Bridge Fees
+77,13722,1009335.14,5,Money Transfer
+78,8421,196979.65,2,"Grocery Stores, Supermarkets"
+79,6647,303823.12,14,"Grocery Stores, Supermarkets"
+80,7469,238966.11,9,"Grocery Stores, Supermarkets"
+81,14555,598053.84,21,"Grocery Stores, Supermarkets"
+84,13829,424057.93,9,"Grocery Stores, Supermarkets"
+86,4187,132197.25,6,Tolls and Bridge Fees
+87,12235,357103.01,0,Money Transfer
+89,12884,405664.54,3,Drinking Places (Alcoholic Beverages)
+90,9407,535593.57,23,Service Stations
+92,11876,349144.15,7,Motor Freight Carriers and Trucking
+94,13160,473154.08,6,Tolls and Bridge Fees
+96,38617,2445773.25,12,Miscellaneous Food Stores
+98,20100,751643.62,25,Tolls and Bridge Fees
+100,7070,406748.36,36,Service Stations
+103,4794,254827.48,10,Miscellaneous Food Stores
+104,7469,383555.23,10,Eating Places and Restaurants
+106,13353,280856.86,9,"Grocery Stores, Supermarkets"
+107,3976,173010.19,18,Service Stations
+110,5901,410083.13,22,Taxicabs and Limousines
+112,28875,962694.41,7,Miscellaneous Food Stores
+113,5671,478686.97,7,Eating Places and Restaurants
+114,40286,942205.88,11,Service Stations
+115,8625,698388.37,6,"Grocery Stores, Supermarkets"
+116,8216,391584.71,5,Tolls and Bridge Fees
+118,6199,311930.06,7,Service Stations
+119,7530,381558.25,2,"Grocery Stores, Supermarkets"
+120,4883,393820.05,15,Automotive Service Shops
+121,10392,511509.82,11,"Grocery Stores, Supermarkets"
+122,10678,392598.15,10,Automotive Service Shops
+123,11492,310999.18,1,"Grocery Stores, Supermarkets"
+124,8811,213495.87,7,Miscellaneous Food Stores
+125,6269,169581.79,20,Drinking Places (Alcoholic Beverages)
+126,11103,231926.72,9,"Grocery Stores, Supermarkets"
+127,10783,752158.53,7,"Grocery Stores, Supermarkets"
+128,7962,323832.98,7,"Grocery Stores, Supermarkets"
+132,3993,149727.28,5,Service Stations
+133,8861,450394.24,3,Tolls and Bridge Fees
+134,6305,361988.3,2,"Grocery Stores, Supermarkets"
+135,15476,739195.27,6,Tolls and Bridge Fees
+137,18091,942226.18,9,"Grocery Stores, Supermarkets"
+138,8788,307583.5,20,Service Stations
+140,10874,287147.67,15,Taxicabs and Limousines
+141,10405,375622.49,23,Drug Stores and Pharmacies
+142,12580,793024.54,13,"Grocery Stores, Supermarkets"
+144,13989,456982.36,1,"Grocery Stores, Supermarkets"
+145,6609,141268.35,10,Service Stations
+146,7564,432088.67,2,Service Stations
+147,6968,351899.9,0,Service Stations
+148,11101,389935.97,13,Motor Freight Carriers and Trucking
+149,4007,278644.85,7,"Grocery Stores, Supermarkets"
+150,11197,684216.69,6,"Grocery Stores, Supermarkets"
+152,9009,819874.69,4,Local and Suburban Commuter Transportation
+153,4295,246049.42,19,Money Transfer
+154,18444,625853.05,15,Miscellaneous Food Stores
+155,8397,180201.32,44,"Grocery Stores, Supermarkets"
+156,13663,295733.18,1,"Grocery Stores, Supermarkets"
+157,11451,452789.81,4,Eating Places and Restaurants
+160,5495,185353.06,2,Miscellaneous Food Stores
+161,14423,394943.16,2,"Grocery Stores, Supermarkets"
+162,7627,522103.26,6,"Grocery Stores, Supermarkets"
+164,8275,289690.03,21,Service Stations
+165,13876,1245012.7,10,Money Transfer
+169,7658,105667.07,12,Drinking Places (Alcoholic Beverages)
+170,7726,388033.46,0,Automotive Service Shops
+171,17519,848275.91,21,Miscellaneous Food Stores
+172,5162,232538.92,2,Automotive Service Shops
+173,10054,526559.53,16,"Grocery Stores, Supermarkets"
+176,14367,606807.57,11,"Grocery Stores, Supermarkets"
+177,9557,745400.93,17,Money Transfer
+178,10120,362032.61,4,Service Stations
+180,6198,228894.54,11,"Betting (including Lottery Tickets, Casinos)"
+184,6215,284601.62,24,Service Stations
+185,11721,349493.57,9,"Grocery Stores, Supermarkets"
+190,19179,1040156.97,28,Local and Suburban Commuter Transportation
+194,14229,348640.2,36,Miscellaneous Food Stores
+196,5787,241375.72,15,Service Stations
+197,12274,512798.94,1,Eating Places and Restaurants
+198,4939,302818.74,14,Automotive Service Shops
+199,10144,428168.81,2,Miscellaneous Food Stores
+200,10297,353308.46,15,"Grocery Stores, Supermarkets"
+201,3823,170190.95,24,Tolls and Bridge Fees
+203,5985,277694.43,16,Service Stations
+205,9026,335124.78,2,Postal Services - Government Only
+206,5592,276835.85,8,Service Stations
+207,4875,216036.28,1,Service Stations
+208,30474,1191648.34,4,Service Stations
+209,12899,341912.72,52,Miscellaneous Food Stores
+211,12457,224224.04,8,Miscellaneous Food Stores
+212,7696,187021.2,1,"Grocery Stores, Supermarkets"
+213,10684,614314.12,13,"Grocery Stores, Supermarkets"
+216,5387,241571.49,0,Service Stations
+217,10766,381464.79,16,Eating Places and Restaurants
+218,8603,287885.98,24,Postal Services - Government Only
+219,5528,134641.17,6,Service Stations
+220,5073,339029.39,17,Service Stations
+222,5125,623746.39,7,Taxicabs and Limousines
+225,8085,414013.94,19,Miscellaneous Food Stores
+227,9562,657204.35,22,"Grocery Stores, Supermarkets"
+229,11262,454121.44,6,Service Stations
+230,7004,259457.56,15,"Grocery Stores, Supermarkets"
+231,10012,373336.18,13,"Grocery Stores, Supermarkets"
+233,6132,442724.58,6,Local and Suburban Commuter Transportation
+234,8736,452821.37,22,Money Transfer
+235,8908,394454.69,6,Postal Services - Government Only
+236,7701,639628.44,12,"Grocery Stores, Supermarkets"
+237,5442,331772.57,4,"Grocery Stores, Supermarkets"
+240,7965,232957.09,10,"Grocery Stores, Supermarkets"
+241,11803,417297.12,9,Miscellaneous Food Stores
+242,8739,417644.82,6,Money Transfer
+244,5264,222516.34,3,Miscellaneous Food Stores
+246,6439,631322.75,4,Eating Places and Restaurants
+247,15122,1032728.62,24,"Grocery Stores, Supermarkets"
+248,5763,236527.29,13,"Grocery Stores, Supermarkets"
+249,7701,286110.53,11,"Grocery Stores, Supermarkets"
+250,12125,460512.55,6,Taxicabs and Limousines
+252,15534,540412.96,17,Money Transfer
+254,18011,1013481.36,1,Money Transfer
+256,11994,437107.83,7,Taxicabs and Limousines
+257,8261,449791.15,18,Money Transfer
+260,4583,158969.36,12,Miscellaneous Food Stores
+261,11799,655100.21,21,Money Transfer
+264,9270,377889.98,3,Money Transfer
+265,8767,292078.63,9,Drug Stores and Pharmacies
+267,4164,146258.25,16,Service Stations
+273,9502,467991.67,5,"Grocery Stores, Supermarkets"
+274,7590,431170.54,14,Drug Stores and Pharmacies
+275,20183,1022720.94,9,"Grocery Stores, Supermarkets"
+277,11233,275542.72,15,"Grocery Stores, Supermarkets"
+278,14250,1021394.57,9,"Grocery Stores, Supermarkets"
+280,9643,564613.02,17,Service Stations
+282,8286,192333.57,8,Miscellaneous Food Stores
+285,32032,1615458.99,17,Money Transfer
+286,6875,194142.89,2,Miscellaneous Food Stores
+287,9645,280829.88,17,Miscellaneous Food Stores
+291,16236,603663.75,9,Tolls and Bridge Fees
+293,9229,319726.12,4,Taxicabs and Limousines
+299,3707,187315.31,1,Service Stations
+300,6669,402393.6,7,"Grocery Stores, Supermarkets"
+301,11350,368860.03,13,Tolls and Bridge Fees
+303,17912,1304581.18,8,"Grocery Stores, Supermarkets"
+305,9811,238162.16,15,Tolls and Bridge Fees
+311,5539,195124.35,14,Automotive Service Shops
+313,7514,236485.5,21,Miscellaneous Food Stores
+315,4144,165507.01,3,Service Stations
+316,9589,652509.68,21,Service Stations
+317,3244,174018.74,5,Miscellaneous Food Stores
+319,7769,505355.72,3,"Grocery Stores, Supermarkets"
+320,4782,323947.33,9,Service Stations
+321,8078,263553.23,19,Service Stations
+322,6134,120337.7,6,Miscellaneous Food Stores
+323,17202,339381.36,27,Service Stations
+327,19990,868356.55,5,Tolls and Bridge Fees
+328,8322,560067.14,2,"Grocery Stores, Supermarkets"
+329,16110,593060.16,3,Miscellaneous Food Stores
+331,5466,234178.87,7,Service Stations
+332,11148,370659.96,2,Tolls and Bridge Fees
+334,4153,231353.94,2,Eating Places and Restaurants
+335,10221,624774.0,1,"Grocery Stores, Supermarkets"
+338,9114,496678.65,19,Tolls and Bridge Fees
+343,9294,251225.37,19,Drinking Places (Alcoholic Beverages)
+345,5469,250825.09,4,Miscellaneous Food Stores
+346,8351,472149.35,14,"Grocery Stores, Supermarkets"
+348,5143,256197.24,6,Service Stations
+349,11535,223509.0,29,Miscellaneous Food Stores
+350,11879,623401.8,7,Taxicabs and Limousines
+351,9111,269352.76,11,"Grocery Stores, Supermarkets"
+354,10139,428627.03,19,Automotive Service Shops
+356,17871,729005.56,5,Eating Places and Restaurants
+357,10409,470526.57,6,"Grocery Stores, Supermarkets"
+359,10471,434092.15,39,"Grocery Stores, Supermarkets"
+360,15105,414988.15,15,Miscellaneous Food Stores
+361,6640,296104.63,7,Service Stations
+362,11141,762767.63,4,"Grocery Stores, Supermarkets"
+363,9832,484363.95,19,Money Transfer
+364,12144,652617.3,15,"Grocery Stores, Supermarkets"
+366,15260,469057.89,31,Taxicabs and Limousines
+368,15469,561993.96,1,Tolls and Bridge Fees
+369,13159,879207.06,5,Eating Places and Restaurants
+370,8203,261605.98,10,"Grocery Stores, Supermarkets"
+371,18429,1345198.29,3,"Grocery Stores, Supermarkets"
+373,20391,406150.05,8,Service Stations
+374,7435,290929.79,24,Tolls and Bridge Fees
+375,8529,263349.6,20,Miscellaneous Food Stores
+376,20749,881700.15,13,Taxicabs and Limousines
+377,12979,694366.3,1,"Grocery Stores, Supermarkets"
+379,23188,545331.89,9,"Grocery Stores, Supermarkets"
+380,10536,286617.1,1,Miscellaneous Food Stores
+383,6478,223248.74,6,"Grocery Stores, Supermarkets"
+385,8824,273794.34,12,Miscellaneous Food Stores
+386,16023,701049.3,9,Taxicabs and Limousines
+387,5535,82655.36,9,"Grocery Stores, Supermarkets"
+391,5272,233577.65,25,Service Stations
+393,5767,223456.69,4,Miscellaneous Food Stores
+394,20250,662272.61,19,Taxicabs and Limousines
+395,7316,377819.42,3,"Grocery Stores, Supermarkets"
+397,9073,174990.7,22,"Grocery Stores, Supermarkets"
+398,6044,303784.69,11,Service Stations
+400,5240,152123.98,1,Service Stations
+401,14202,397522.73,34,"Grocery Stores, Supermarkets"
+402,12157,561906.24,9,Tolls and Bridge Fees
+403,3998,227186.19,25,Service Stations
+408,18777,1079323.11,39,Eating Places and Restaurants
+410,2269,92402.59,15,"Grocery Stores, Supermarkets"
+414,8253,860283.86,5,Eating Places and Restaurants
+415,7576,217522.14,15,"Grocery Stores, Supermarkets"
+416,9440,219831.96,2,"Grocery Stores, Supermarkets"
+419,12205,351684.34,11,"Grocery Stores, Supermarkets"
+421,18599,581363.45,12,Miscellaneous Food Stores
+425,20808,752212.0,8,Miscellaneous Food Stores
+427,6869,262772.11,2,"Grocery Stores, Supermarkets"
+428,10023,538307.19,6,Eating Places and Restaurants
+430,20998,1109182.94,26,"Grocery Stores, Supermarkets"
+432,8862,469384.61,0,Wholesale Clubs
+433,11045,419151.17,28,Eating Places and Restaurants
+434,8708,421063.88,2,Eating Places and Restaurants
+437,9333,528565.76,3,"Grocery Stores, Supermarkets"
+438,4670,174000.31,2,Service Stations
+441,8412,347020.46,11,Eating Places and Restaurants
+442,13970,674090.0,20,"Grocery Stores, Supermarkets"
+447,7873,235755.45,12,"Grocery Stores, Supermarkets"
+449,8786,338883.46,3,Service Stations
+450,8080,408358.97,5,Service Stations
+451,6672,315033.09,2,Local and Suburban Commuter Transportation
+452,15225,799636.15,7,Tolls and Bridge Fees
+455,6797,429302.12,18,Postal Services - Government Only
+456,14180,531070.58,10,Tolls and Bridge Fees
+457,8801,647690.2,3,Service Stations
+458,3938,355090.63,4,"Utilities - Electric, Gas, Water, Sanitary"
+459,7790,314995.28,3,"Grocery Stores, Supermarkets"
+460,12158,616962.6,3,"Grocery Stores, Supermarkets"
+461,20994,775510.45,15,Eating Places and Restaurants
+462,10288,564389.36,11,Drinking Places (Alcoholic Beverages)
+464,27619,1882901.35,3,Money Transfer
+465,6317,223897.47,11,"Grocery Stores, Supermarkets"
+467,11497,398650.33,5,"Grocery Stores, Supermarkets"
+468,8001,325511.87,29,Eating Places and Restaurants
+469,10575,458558.87,9,"Grocery Stores, Supermarkets"
+470,9800,452474.09,1,Money Transfer
+472,19704,592486.72,1,Service Stations
+473,6305,148159.15,0,Drug Stores and Pharmacies
+474,17753,891036.14,9,Eating Places and Restaurants
+476,18264,626505.6,7,Miscellaneous Food Stores
+477,9873,497437.15,11,"Grocery Stores, Supermarkets"
+478,8248,445506.11,12,Postal Services - Government Only
+479,10190,424290.52,8,Miscellaneous Food Stores
+480,10840,617309.27,9,"Grocery Stores, Supermarkets"
+483,5834,248533.53,5,Service Stations
+487,11330,783144.24,7,Tolls and Bridge Fees
+488,23990,1611114.42,4,"Grocery Stores, Supermarkets"
+489,6042,254507.27,2,Service Stations
+490,21831,1711482.69,9,"Grocery Stores, Supermarkets"
+491,4015,140579.19,9,Service Stations
+494,9146,361662.94,13,"Grocery Stores, Supermarkets"
+496,5636,240852.55,28,Drinking Places (Alcoholic Beverages)
+497,10874,528009.83,11,"Grocery Stores, Supermarkets"
+502,23095,689785.03,15,Miscellaneous Food Stores
+503,9877,193826.68,6,Automotive Service Shops
+506,14435,730627.38,6,Eating Places and Restaurants
+509,10683,312736.78,13,"Grocery Stores, Supermarkets"
+511,22976,980405.34,5,Taxicabs and Limousines
+514,10695,433649.93,10,Eating Places and Restaurants
+515,9840,239749.07,4,"Grocery Stores, Supermarkets"
+517,6085,155075.08,17,"Grocery Stores, Supermarkets"
+519,8628,232704.9,7,Miscellaneous Food Stores
+520,9649,363595.21,7,"Grocery Stores, Supermarkets"
+523,8578,528761.54,1,"Grocery Stores, Supermarkets"
+524,6193,196869.39,6,Drinking Places (Alcoholic Beverages)
+525,11037,429184.62,3,Taxicabs and Limousines
+526,15665,618495.34,16,Taxicabs and Limousines
+528,7323,282515.49,17,Drug Stores and Pharmacies
+530,13347,248032.96,6,"Grocery Stores, Supermarkets"
+534,12032,581291.07,6,Money Transfer
+538,9274,361174.22,3,Service Stations
+542,8374,234504.11,2,Wholesale Clubs
+543,9272,367575.83,2,"Grocery Stores, Supermarkets"
+545,7425,328473.26,4,Miscellaneous Food Stores
+546,7436,420015.64,3,Eating Places and Restaurants
+547,6499,222693.91,11,"Grocery Stores, Supermarkets"
+549,5752,409880.21,4,Service Stations
+550,13094,635535.9,1,Department Stores
+552,14707,640351.06,2,Service Stations
+554,13066,669148.36,3,"Grocery Stores, Supermarkets"
+556,13728,381144.77,17,Miscellaneous Food Stores
+557,19965,625817.01,5,Taxicabs and Limousines
+561,11762,315856.03,36,Taxicabs and Limousines
+563,15750,810836.35,8,Tolls and Bridge Fees
+564,12678,541913.08,9,Money Transfer
+565,12807,621546.14,11,Money Transfer
+566,17918,628170.25,18,Taxicabs and Limousines
+569,2459,99765.91,6,Service Stations
+570,9203,347035.35,12,"Grocery Stores, Supermarkets"
+571,14702,492042.36,17,Automotive Service Shops
+573,13351,268753.68,13,Eating Places and Restaurants
+575,8516,363567.42,31,Eating Places and Restaurants
+576,9686,469550.92,16,"Grocery Stores, Supermarkets"
+577,10453,340170.91,1,"Grocery Stores, Supermarkets"
+580,16002,549434.96,1,Tolls and Bridge Fees
+581,7745,262227.67,16,Wholesale Clubs
+582,3115,184812.11,1,Service Stations
+583,5677,219357.49,1,"Grocery Stores, Supermarkets"
+584,9590,225734.64,7,"Grocery Stores, Supermarkets"
+585,14104,449423.09,7,Taxicabs and Limousines
+586,7885,262200.46,9,Eating Places and Restaurants
+589,3573,129458.03,4,Eating Places and Restaurants
+592,20792,519128.81,18,Miscellaneous Food Stores
+595,5135,247906.26,2,"Grocery Stores, Supermarkets"
+596,3453,142374.07,6,"Grocery Stores, Supermarkets"
+597,15570,632774.3,10,Miscellaneous Food Stores
+598,25656,1113780.48,9,Tolls and Bridge Fees
+601,8462,249170.02,21,Miscellaneous Food Stores
+602,14688,560674.86,7,Local and Suburban Commuter Transportation
+604,7897,521027.63,19,Tolls and Bridge Fees
+605,16607,369424.75,15,Tolls and Bridge Fees
+608,6355,114754.06,6,Drug Stores and Pharmacies
+609,8964,258476.53,6,"Grocery Stores, Supermarkets"
+613,11965,390324.01,9,Taxicabs and Limousines
+614,11666,273724.77,20,Money Transfer
+615,10367,671397.13,36,Money Transfer
+616,2968,93795.67,13,"Grocery Stores, Supermarkets"
+618,5425,156837.35,8,Drinking Places (Alcoholic Beverages)
+619,7982,350012.82,25,Service Stations
+621,6219,253242.75,3,"Grocery Stores, Supermarkets"
+623,5806,360377.09,5,Service Stations
+628,7487,425502.24,0,"Grocery Stores, Supermarkets"
+629,8742,733073.77,22,"Grocery Stores, Supermarkets"
+630,19619,1467776.27,15,Money Transfer
+631,8514,310667.13,13,Service Stations
+633,4655,356386.85,1,Service Stations
+634,9171,453123.21,9,"Grocery Stores, Supermarkets"
+636,5077,165058.21,12,Service Stations
+637,15267,756645.6,11,Tolls and Bridge Fees
+638,4784,383497.37,11,Service Stations
+639,20690,513284.69,3,Miscellaneous Food Stores
+641,20469,707521.14,3,Drinking Places (Alcoholic Beverages)
+642,5975,330631.17,20,Service Stations
+643,11701,315902.28,8,Miscellaneous Food Stores
+644,5268,215578.32,6,"Grocery Stores, Supermarkets"
+646,8479,337730.31,2,"Grocery Stores, Supermarkets"
+647,7940,110466.31,1,Service Stations
+648,7714,137940.29,0,Miscellaneous Food Stores
+649,10515,240602.4,6,Miscellaneous Food Stores
+650,5879,207999.95,4,Motion Picture Theaters
+652,14556,394622.71,33,"Grocery Stores, Supermarkets"
+655,12780,319720.84,8,Money Transfer
+657,6403,234614.75,4,Taxicabs and Limousines
+658,14173,640774.84,6,Tolls and Bridge Fees
+659,12161,436428.27,4,"Grocery Stores, Supermarkets"
+660,6113,195850.74,0,"Grocery Stores, Supermarkets"
+661,3865,95136.15,8,"Grocery Stores, Supermarkets"
+662,14440,723411.15,6,Taxicabs and Limousines
+663,13036,630406.06,19,"Grocery Stores, Supermarkets"
+665,11284,443200.76,34,Tolls and Bridge Fees
+667,14678,578010.28,24,"Grocery Stores, Supermarkets"
+668,14380,324612.16,18,Miscellaneous Food Stores
+669,10939,345384.96,4,Eating Places and Restaurants
+671,7383,316403.27,1,Miscellaneous Food Stores
+672,15731,387805.56,4,"Grocery Stores, Supermarkets"
+674,14728,307893.61,27,Drinking Places (Alcoholic Beverages)
+675,7979,244379.56,3,Tolls and Bridge Fees
+676,15122,619391.79,1,Eating Places and Restaurants
+677,8179,448793.71,7,Service Stations
+678,6564,162136.11,7,"Grocery Stores, Supermarkets"
+679,6139,172824.91,5,"Grocery Stores, Supermarkets"
+683,8604,407342.82,6,"Grocery Stores, Supermarkets"
+684,5627,208778.53,11,"Grocery Stores, Supermarkets"
+688,12964,442205.45,16,Eating Places and Restaurants
+692,10573,291314.02,39,Drinking Places (Alcoholic Beverages)
+696,11686,836710.25,25,Taxicabs and Limousines
+697,4172,351029.23,9,Tolls and Bridge Fees
+699,11462,246369.08,8,"Grocery Stores, Supermarkets"
+702,13088,823547.43,11,"Grocery Stores, Supermarkets"
+704,20748,1635022.05,23,Taxicabs and Limousines
+705,19930,1002986.14,16,Automotive Service Shops
+706,7962,478426.16,6,Service Stations
+708,8681,1094355.64,8,"Grocery Stores, Supermarkets"
+709,7386,246094.29,11,"Grocery Stores, Supermarkets"
+711,11515,692874.07,1,Money Transfer
+712,8207,291427.68,13,Service Stations
+714,9143,282741.15,12,"Grocery Stores, Supermarkets"
+716,13883,524081.2,1,Local and Suburban Commuter Transportation
+719,11255,467172.71,7,Miscellaneous Food Stores
+720,3684,128892.71,6,Automotive Service Shops
+721,10697,254984.62,11,Miscellaneous Food Stores
+723,9872,241510.25,10,"Grocery Stores, Supermarkets"
+724,6359,307104.35,18,Miscellaneous Food Stores
+726,9838,212898.33,3,"Grocery Stores, Supermarkets"
+727,10878,287503.31,7,"Grocery Stores, Supermarkets"
+728,6967,241767.04,14,Service Stations
+729,9357,354768.57,19,Service Stations
+731,3649,242214.37,11,Service Stations
+732,6095,259993.16,24,Miscellaneous Food Stores
+733,14918,1028585.38,24,Money Transfer
+734,10714,168144.38,1,Eating Places and Restaurants
+737,15716,650315.73,12,"Grocery Stores, Supermarkets"
+738,10812,757478.22,9,"Grocery Stores, Supermarkets"
+742,8336,468318.43,25,Service Stations
+743,5815,275132.68,10,Service Stations
+744,8504,317463.4,11,Eating Places and Restaurants
+746,12340,424506.78,18,Drinking Places (Alcoholic Beverages)
+747,9609,254766.22,0,"Grocery Stores, Supermarkets"
+748,6465,274541.73,2,"Grocery Stores, Supermarkets"
+750,5274,214442.65,6,Service Stations
+751,7002,440276.01,3,"Grocery Stores, Supermarkets"
+752,6033,454798.53,2,Service Stations
+753,5868,200762.62,18,Drug Stores and Pharmacies
+754,14995,702805.21,35,Eating Places and Restaurants
+755,5653,186372.09,19,Miscellaneous Food Stores
+756,5481,443249.22000000003,1,Service Stations
+757,10909,586331.51,13,Money Transfer
+758,14294,215245.92,2,Miscellaneous Food Stores
+759,7184,358990.65,5,Service Stations
+760,14207,496727.61,14,Money Transfer
+762,10241,414612.55,6,Tolls and Bridge Fees
+763,13173,1032707.08,6,"Grocery Stores, Supermarkets"
+764,8296,439241.38,11,Department Stores
+771,5553,275611.83,15,Service Stations
+772,7028,183475.95,10,"Grocery Stores, Supermarkets"
+773,10701,337572.7,14,Taxicabs and Limousines
+774,7016,282349.13,5,"Grocery Stores, Supermarkets"
+776,9357,851987.43,3,Money Transfer
+779,17778,774311.12,15,"Grocery Stores, Supermarkets"
+780,7547,213145.18,14,Taxicabs and Limousines
+782,21320,672224.48,9,Service Stations
+783,6266,227159.44,17,"Grocery Stores, Supermarkets"
+789,8025,373232.71,1,"Grocery Stores, Supermarkets"
+790,11863,403021.32,2,Drinking Places (Alcoholic Beverages)
+791,5992,277777.25,21,Service Stations
+793,7802,275534.57,8,Service Stations
+794,2970,116375.64,11,Service Stations
+795,16115,910387.76,1,Eating Places and Restaurants
+797,6927,354425.06,18,"Grocery Stores, Supermarkets"
+798,5914,441374.91,4,"Grocery Stores, Supermarkets"
+799,5462,256895.48,5,"Grocery Stores, Supermarkets"
+801,7186,231093.46,15,"Grocery Stores, Supermarkets"
+802,10868,553435.24,28,Drinking Places (Alcoholic Beverages)
+803,10648,247877.94,14,"Grocery Stores, Supermarkets"
+804,15616,465227.83,10,Drinking Places (Alcoholic Beverages)
+807,5926,255569.68,3,"Grocery Stores, Supermarkets"
+808,9780,773098.14,5,Wholesale Clubs
+810,14565,612004.33,20,Miscellaneous Food Stores
+811,12518,811059.55,5,Eating Places and Restaurants
+814,12109,402742.87,6,"Grocery Stores, Supermarkets"
+816,7400,300345.06,4,Drinking Places (Alcoholic Beverages)
+819,7994,284240.02,8,Miscellaneous Food Stores
+820,14145,652941.41,10,"Grocery Stores, Supermarkets"
+821,5202,156928.09,7,Motion Picture Theaters
+822,7226,246989.56,14,"Grocery Stores, Supermarkets"
+823,6869,298055.35,2,Service Stations
+825,11376,912398.3,10,"Grocery Stores, Supermarkets"
+826,4125,287290.07,21,Eating Places and Restaurants
+827,7416,301493.48,3,"Grocery Stores, Supermarkets"
+828,20404,571348.72,15,Taxicabs and Limousines
+831,7493,328567.46,20,Service Stations
+832,5727,470826.33,23,Wholesale Clubs
+837,6917,238425.79,9,Service Stations
+839,4647,344179.54,10,Service Stations
+840,15095,1956340.84,16,Money Transfer
+843,7064,298696.63,7,"Grocery Stores, Supermarkets"
+844,2588,157185.33,9,"Utilities - Electric, Gas, Water, Sanitary"
+845,10968,468480.76,15,"Grocery Stores, Supermarkets"
+846,19752,791712.41,0,"Grocery Stores, Supermarkets"
+847,12213,665754.47,19,Money Transfer
+848,6614,469086.41,14,Drinking Places (Alcoholic Beverages)
+849,9335,217144.35,16,"Grocery Stores, Supermarkets"
+850,7310,239879.92,1,Automotive Service Shops
+851,7078,288125.8,12,"Grocery Stores, Supermarkets"
+852,21967,579880.65,4,Service Stations
+855,9832,182063.77,12,Miscellaneous Food Stores
+856,12859,1110181.44,7,"Grocery Stores, Supermarkets"
+858,16945,423266.81,22,Service Stations
+859,10231,411000.25,14,Tolls and Bridge Fees
+860,16081,833830.51,20,Drinking Places (Alcoholic Beverages)
+862,7579,227879.71,5,Taxicabs and Limousines
+863,4191,165319.26,10,"Grocery Stores, Supermarkets"
+865,11837,750408.96,5,Automotive Service Shops
+866,10031,467047.98,9,"Grocery Stores, Supermarkets"
+868,10493,619233.92,13,Money Transfer
+869,6357,248073.11,27,"Grocery Stores, Supermarkets"
+870,11527,494410.24,5,Miscellaneous Food Stores
+871,17341,534569.56,31,"Grocery Stores, Supermarkets"
+872,15314,573749.66,13,Money Transfer
+875,3392,162373.21,1,"Grocery Stores, Supermarkets"
+876,7945,351213.36,10,Service Stations
+877,8919,531664.44,5,Service Stations
+879,10760,317334.55,11,Tolls and Bridge Fees
+882,7950,261297.13,1,Service Stations
+883,2386,175043.54,1,Eating Places and Restaurants
+884,14092,528465.16,13,Eating Places and Restaurants
+885,11003,167996.75,10,Miscellaneous Food Stores
+888,4662,268236.4,1,Service Stations
+890,8219,356000.11,9,"Grocery Stores, Supermarkets"
+891,13738,398629.47,9,Drinking Places (Alcoholic Beverages)
+895,8604,335498.55,0,Service Stations
+897,2527,55965.77,1,"Grocery Stores, Supermarkets"
+898,7871,194726.63,4,"Grocery Stores, Supermarkets"
+900,7968,311680.07,26,"Grocery Stores, Supermarkets"
+901,7412,269638.89,13,"Grocery Stores, Supermarkets"
+905,11244,794515.41,7,"Grocery Stores, Supermarkets"
+906,8903,351660.07,0,Postal Services - Government Only
+908,8871,373948.8,27,"Grocery Stores, Supermarkets"
+909,43381,927496.96,29,Service Stations
+912,11650,349001.1,5,Taxicabs and Limousines
+913,4002,153680.29,19,Miscellaneous Food Stores
+914,14562,348786.77,30,Miscellaneous Food Stores
+917,5698,241927.76,22,"Grocery Stores, Supermarkets"
+918,8898,331721.18,12,Department Stores
+920,6350,140134.36,2,"Grocery Stores, Supermarkets"
+921,15316,955708.69,22,"Grocery Stores, Supermarkets"
+924,5939,244896.51,7,"Grocery Stores, Supermarkets"
+928,7468,253306.99,15,Service Stations
+931,8022,397087.2,3,Miscellaneous Food Stores
+932,13696,643919.44,11,Eating Places and Restaurants
+933,8498,246864.84,11,Service Stations
+938,10575,528268.76,4,Drinking Places (Alcoholic Beverages)
+939,5804,293617.67,3,Miscellaneous Food Stores
+940,11057,372808.23,14,"Grocery Stores, Supermarkets"
+942,12154,644342.24,11,Eating Places and Restaurants
+944,10401,1077097.24,11,Eating Places and Restaurants
+946,12334,329756.4,17,"Grocery Stores, Supermarkets"
+947,14458,710707.63,11,Eating Places and Restaurants
+948,7664,295124.86,8,"Grocery Stores, Supermarkets"
+949,9925,588240.05,2,"Grocery Stores, Supermarkets"
+951,12369,269882.44,8,Taxicabs and Limousines
+952,8986,800417.79,8,Automotive Service Shops
+954,20047,907619.86,4,Money Transfer
+955,1997,61741.49,17,"Grocery Stores, Supermarkets"
+957,10709,546955.46,11,Eating Places and Restaurants
+961,12577,586957.24,6,Eating Places and Restaurants
+962,6050,225776.42,14,Service Stations
+963,3697,125006.91,1,"Grocery Stores, Supermarkets"
+964,7385,278629.67,8,"Grocery Stores, Supermarkets"
+970,13022,396644.89,12,Postal Services - Government Only
+972,14955,491376.89,3,Service Stations
+973,17176,315627.7,13,"Grocery Stores, Supermarkets"
+976,15284,795545.63,16,Miscellaneous Food Stores
+977,11070,297271.3,9,"Grocery Stores, Supermarkets"
+979,5809,328199.29,5,Miscellaneous Food Stores
+980,6834,230596.28,27,"Grocery Stores, Supermarkets"
+983,8701,363635.26,10,"Grocery Stores, Supermarkets"
+984,12579,730649.02,22,Money Transfer
+985,11265,965852.64,2,Money Transfer
+986,11538,269596.93,8,Miscellaneous Food Stores
+987,28011,1036205.1,2,Tolls and Bridge Fees
+988,7156,404175.01,13,Automotive Service Shops
+989,12069,1538980.35,42,"Grocery Stores, Supermarkets"
+990,6376,238107.6,3,Eating Places and Restaurants
+992,8818,544738.67,19,Eating Places and Restaurants
+994,8285,181021.9,19,Service Stations
+996,16181,661370.93,31,"Grocery Stores, Supermarkets"
+997,30309,942816.03,10,Miscellaneous Food Stores
+1002,3724,199185.1,8,Miscellaneous Food Stores
+1003,10830,1004970.67,5,Money Transfer
+1006,10715,419883.23,1,"Grocery Stores, Supermarkets"
+1008,16304,309523.53,3,"Grocery Stores, Supermarkets"
+1009,6422,173125.11,11,Drug Stores and Pharmacies
+1012,3095,159080.78,5,"Grocery Stores, Supermarkets"
+1016,2170,52388.75,8,Drug Stores and Pharmacies
+1018,16563,738902.59,12,Drinking Places (Alcoholic Beverages)
+1019,8907,416946.69,18,"Grocery Stores, Supermarkets"
+1020,16873,780962.08,7,"Grocery Stores, Supermarkets"
+1022,10660,657640.36,8,Money Transfer
+1024,15840,376503.59,3,"Grocery Stores, Supermarkets"
+1026,11163,313528.68,9,"Grocery Stores, Supermarkets"
+1027,8073,562285.71,7,Service Stations
+1028,13042,878133.37,9,Tolls and Bridge Fees
+1029,5866,309756.48,5,Service Stations
+1030,10033,295869.19,11,"Grocery Stores, Supermarkets"
+1031,7791,413301.83,12,"Grocery Stores, Supermarkets"
+1034,13006,787871.11,17,Eating Places and Restaurants
+1039,15454,564210.03,11,Money Transfer
+1041,8537,339422.41,9,"Grocery Stores, Supermarkets"
+1046,16820,437727.97,1,Service Stations
+1047,9312,500951.49,0,Drinking Places (Alcoholic Beverages)
+1048,7979,369792.08,18,Motor Freight Carriers and Trucking
+1050,18621,726743.25,2,Service Stations
+1052,11599,874290.02,23,Money Transfer
+1053,12780,842256.59,0,"Grocery Stores, Supermarkets"
+1054,7181,275098.39,19,"Grocery Stores, Supermarkets"
+1058,13545,608107.61,19,Tolls and Bridge Fees
+1060,7226,311148.36,34,Service Stations
+1063,16699,684419.13,15,Local and Suburban Commuter Transportation
+1066,18250,1402519.67,10,Money Transfer
+1067,13923,413755.0,10,"Grocery Stores, Supermarkets"
+1069,12209,402460.08,7,Tolls and Bridge Fees
+1070,8599,399744.64,15,"Grocery Stores, Supermarkets"
+1072,11638,456432.88,1,"Grocery Stores, Supermarkets"
+1073,10149,413350.19,9,"Grocery Stores, Supermarkets"
+1074,5232,250907.56,23,Service Stations
+1075,20050,696204.82,7,Taxicabs and Limousines
+1076,6999,302205.61,15,Department Stores
+1077,21845,536953.92,12,Taxicabs and Limousines
+1078,11812,660153.92,6,Eating Places and Restaurants
+1079,13792,831454.09,25,"Grocery Stores, Supermarkets"
+1080,12165,332206.48,23,Drinking Places (Alcoholic Beverages)
+1081,18307,793379.9,16,Service Stations
+1082,6247,357577.49,15,Money Transfer
+1083,22538,970217.2,16,Taxicabs and Limousines
+1084,11705,511166.58,11,"Grocery Stores, Supermarkets"
+1086,5012,384113.52,15,Service Stations
+1087,7028,212464.96,6,"Grocery Stores, Supermarkets"
+1088,8428,349074.06,17,"Grocery Stores, Supermarkets"
+1089,8129,398099.61,5,Drinking Places (Alcoholic Beverages)
+1091,7321,419647.6,12,"Grocery Stores, Supermarkets"
+1094,5305,225958.54,9,Postal Services - Government Only
+1095,5935,276825.87,22,Service Stations
+1096,17279,785378.88,12,"Grocery Stores, Supermarkets"
+1097,7908,284895.76,14,"Grocery Stores, Supermarkets"
+1098,48479,1460166.8,21,Service Stations
+1100,9234,827387.61,16,"Grocery Stores, Supermarkets"
+1102,17775,1109536.42,58,"Grocery Stores, Supermarkets"
+1103,13090,506922.2,16,Department Stores
+1104,13891,694067.11,4,Drug Stores and Pharmacies
+1105,13150,756705.29,3,Money Transfer
+1106,11194,304953.36,10,Department Stores
+1107,11513,424677.35,4,"Grocery Stores, Supermarkets"
+1114,8772,269881.61,5,Service Stations
+1115,12526,698440.72,3,"Grocery Stores, Supermarkets"
+1116,16177,1040505.05,6,Tolls and Bridge Fees
+1117,12721,1026849.38,1,Local and Suburban Commuter Transportation
+1118,6174,618628.8,5,Eating Places and Restaurants
+1121,16520,811702.07,7,"Grocery Stores, Supermarkets"
+1123,7092,166456.77,15,"Grocery Stores, Supermarkets"
+1125,3261,189397.63,6,"Grocery Stores, Supermarkets"
+1127,17574,575438.37,11,Tolls and Bridge Fees
+1128,8268,262654.3,43,"Grocery Stores, Supermarkets"
+1129,14444,708782.66,5,Money Transfer
+1130,13759,725608.26,18,"Grocery Stores, Supermarkets"
+1131,9016,753405.04,14,Money Transfer
+1133,9495,311360.39,3,"Grocery Stores, Supermarkets"
+1135,15308,621780.94,4,Taxicabs and Limousines
+1137,6836,330197.39,17,"Grocery Stores, Supermarkets"
+1138,18918,615293.36,20,Tolls and Bridge Fees
+1140,12130,461223.25,34,Drinking Places (Alcoholic Beverages)
+1141,11629,309329.24,14,Miscellaneous Food Stores
+1142,8293,563342.34,17,Service Stations
+1144,20643,653033.59,1,Automotive Service Shops
+1145,19500,873627.47,1,Taxicabs and Limousines
+1147,24104,995938.61,15,"Grocery Stores, Supermarkets"
+1148,8667,337435.54,2,Eating Places and Restaurants
+1150,15596,662397.7,2,"Grocery Stores, Supermarkets"
+1151,6531,69861.72,9,Drug Stores and Pharmacies
+1153,4464,83891.82,9,"Grocery Stores, Supermarkets"
+1155,13221,603793.87,12,Miscellaneous Food Stores
+1156,13063,1067960.5,4,Tolls and Bridge Fees
+1163,4639,341134.41,24,Miscellaneous Food Stores
+1164,9227,890509.67,0,Department Stores
+1166,18016,399671.5,4,Miscellaneous Food Stores
+1168,30520,1590822.75,7,Miscellaneous Food Stores
+1169,29906,1297296.62,18,Taxicabs and Limousines
+1170,9391,366230.75,4,"Grocery Stores, Supermarkets"
+1171,6190,504909.8,18,"Grocery Stores, Supermarkets"
+1173,8530,455866.04,16,"Grocery Stores, Supermarkets"
+1176,17040,677314.48,17,Tolls and Bridge Fees
+1177,10846,389057.0,9,"Grocery Stores, Supermarkets"
+1179,5785,324952.58,18,Service Stations
+1180,10490,540150.84,1,Eating Places and Restaurants
+1181,8485,455612.13,2,"Grocery Stores, Supermarkets"
+1183,7312,328517.78,13,Eating Places and Restaurants
+1184,10262,449301.65,1,Tolls and Bridge Fees
+1187,3920,191699.52,10,Miscellaneous Food Stores
+1189,7474,281146.83,2,Drug Stores and Pharmacies
+1190,21481,796528.34,34,Tolls and Bridge Fees
+1192,7279,158590.72,2,Eating Places and Restaurants
+1193,13038,443564.02,5,"Grocery Stores, Supermarkets"
+1194,14673,491033.09,17,Tolls and Bridge Fees
+1195,12948,611346.25,16,Automotive Service Shops
+1196,8547,458364.45,24,"Grocery Stores, Supermarkets"
+1198,16827,641954.22,9,Tolls and Bridge Fees
+1201,6863,646278.25,5,"Grocery Stores, Supermarkets"
+1202,10108,115568.61,13,"Grocery Stores, Supermarkets"
+1203,4163,131853.2,3,Eating Places and Restaurants
+1204,6214,385257.59,5,"Grocery Stores, Supermarkets"
+1207,15891,808783.69,4,Tolls and Bridge Fees
+1208,10710,309131.33,12,"Grocery Stores, Supermarkets"
+1209,17757,1047860.95,12,"Grocery Stores, Supermarkets"
+1210,8963,343097.92,19,Miscellaneous Food Stores
+1211,6414,340029.35,1,Motor Freight Carriers and Trucking
+1213,7329,251222.56,10,Drinking Places (Alcoholic Beverages)
+1214,11916,568705.61,2,Eating Places and Restaurants
+1217,7015,497960.04,8,Local and Suburban Commuter Transportation
+1219,9942,679295.37,6,Automotive Service Shops
+1221,10121,333772.47,33,"Grocery Stores, Supermarkets"
+1222,12980,411564.94,8,"Grocery Stores, Supermarkets"
+1223,760,111905.55,9,Service Stations
+1224,18954,782158.26,3,"Grocery Stores, Supermarkets"
+1225,14287,607667.5,0,Taxicabs and Limousines
+1226,9620,589995.86,26,Wholesale Clubs
+1227,11734,416809.73,19,"Grocery Stores, Supermarkets"
+1228,12064,400302.39,14,"Grocery Stores, Supermarkets"
+1229,8728,517227.53,22,Service Stations
+1234,13089,229634.47,2,Taxicabs and Limousines
+1236,11310,247268.65,5,Eating Places and Restaurants
+1237,23770,659356.84,26,Tolls and Bridge Fees
+1238,10977,1086471.18,3,"Grocery Stores, Supermarkets"
+1239,10800,377894.61,1,"Grocery Stores, Supermarkets"
+1240,9734,336788.05,8,"Grocery Stores, Supermarkets"
+1241,14265,1127821.12,5,Department Stores
+1242,8764,331375.97,23,Miscellaneous Food Stores
+1243,8809,642844.84,7,"Grocery Stores, Supermarkets"
+1245,11325,346173.27,7,"Grocery Stores, Supermarkets"
+1246,7993,320030.54,5,"Grocery Stores, Supermarkets"
+1247,9796,456713.43,12,Service Stations
+1248,8771,348894.25,4,Eating Places and Restaurants
+1250,13320,342182.32,32,"Grocery Stores, Supermarkets"
+1251,11316,316349.68,2,Tolls and Bridge Fees
+1253,19846,1106437.9,6,Automotive Service Shops
+1254,7535,213135.83,4,Miscellaneous Food Stores
+1256,18455,622020.74,1,Tolls and Bridge Fees
+1257,5768,218277.01,1,Service Stations
+1258,11803,388913.77,10,"Grocery Stores, Supermarkets"
+1259,11541,979009.92,19,"Grocery Stores, Supermarkets"
+1260,4182,113828.64,8,"Grocery Stores, Supermarkets"
+1261,8197,417032.64,2,"Grocery Stores, Supermarkets"
+1262,11019,187867.65,9,Miscellaneous Food Stores
+1263,7513,320135.9,12,Tolls and Bridge Fees
+1266,7183,262819.4,7,Service Stations
+1267,5472,376705.23,33,Eating Places and Restaurants
+1268,4693,176425.93,17,Service Stations
+1269,14111,591333.76,6,Tolls and Bridge Fees
+1274,15869,924012.18,12,Miscellaneous Food Stores
+1276,5521,465827.66,3,Miscellaneous Food Stores
+1279,14951,546117.31,14,Miscellaneous Food Stores
+1281,4781,144265.47,11,Miscellaneous Food Stores
+1282,7817,294575.4,17,Drinking Places (Alcoholic Beverages)
+1283,10400,594000.56,16,Service Stations
+1284,7289,477571.57,7,"Grocery Stores, Supermarkets"
+1285,10520,741791.75,10,Drinking Places (Alcoholic Beverages)
+1286,14042,716549.46,1,Taxicabs and Limousines
+1288,11199,501905.68,15,Local and Suburban Commuter Transportation
+1289,2511,26605.34,2,"Grocery Stores, Supermarkets"
+1291,6885,439055.13,7,"Grocery Stores, Supermarkets"
+1293,17670,924100.27,5,Tolls and Bridge Fees
+1294,9855,649257.81,6,"Grocery Stores, Supermarkets"
+1295,20760,720580.02,9,Taxicabs and Limousines
+1296,21391,593015.19,15,Taxicabs and Limousines
+1298,6431,190707.9,8,"Grocery Stores, Supermarkets"
+1299,6676,261544.04,1,"Grocery Stores, Supermarkets"
+1300,13601,284077.82,20,"Grocery Stores, Supermarkets"
+1301,8472,316420.04,0,Miscellaneous Food Stores
+1302,10589,545712.0,10,"Grocery Stores, Supermarkets"
+1303,4065,321673.33,6,Service Stations
+1305,8924,357491.91,11,"Grocery Stores, Supermarkets"
+1307,9297,795812.75,30,Tolls and Bridge Fees
+1313,14934,539257.1,1,"Grocery Stores, Supermarkets"
+1314,17958,693665.75,7,Eating Places and Restaurants
+1315,13035,253352.19,9,Miscellaneous Food Stores
+1317,7569,175740.92,6,"Grocery Stores, Supermarkets"
+1323,10793,512312.78,6,Money Transfer
+1324,9105,552888.95,10,"Grocery Stores, Supermarkets"
+1326,8620,503635.43,1,"Grocery Stores, Supermarkets"
+1330,19688,830936.45,26,Tolls and Bridge Fees
+1331,7382,39423.45,1,"Grocery Stores, Supermarkets"
+1332,7788,347155.09,26,Eating Places and Restaurants
+1334,7766,223253.97,11,Miscellaneous Food Stores
+1335,8672,553895.59,2,"Grocery Stores, Supermarkets"
+1340,22023,2039921.23,24,"Grocery Stores, Supermarkets"
+1341,13356,511549.19,37,Tolls and Bridge Fees
+1344,12885,485077.72,11,Eating Places and Restaurants
+1345,11194,504093.05,27,"Grocery Stores, Supermarkets"
+1347,6052,317252.75,5,"Grocery Stores, Supermarkets"
+1348,10388,81391.84,4,"Grocery Stores, Supermarkets"
+1352,5744,233505.47,5,Service Stations
+1353,6164,263996.36,11,Service Stations
+1356,9726,343631.81,1,"Grocery Stores, Supermarkets"
+1357,14661,329689.31,10,Tolls and Bridge Fees
+1358,5343,103950.22,9,"Grocery Stores, Supermarkets"
+1360,4900,160554.96,2,Service Stations
+1361,8583,301467.03,1,"Grocery Stores, Supermarkets"
+1362,7618,399731.86,10,Service Stations
+1364,3731,57474.15,9,Miscellaneous Food Stores
+1366,7093,256680.66,1,Service Stations
+1367,8875,243612.18,2,"Grocery Stores, Supermarkets"
+1369,18175,434577.65,15,Eating Places and Restaurants
+1370,10924,590622.66,4,Drinking Places (Alcoholic Beverages)
+1371,10989,363100.79,28,"Grocery Stores, Supermarkets"
+1376,12402,515468.51,4,Miscellaneous Food Stores
+1378,13615,505057.05,7,Money Transfer
+1379,18953,689637.46,4,"Grocery Stores, Supermarkets"
+1381,16249,612902.53,5,Miscellaneous Food Stores
+1382,21924,548537.57,17,Service Stations
+1383,12340,701058.59,6,Tolls and Bridge Fees
+1384,9210,455409.64,2,Eating Places and Restaurants
+1385,13376,994274.83,3,Money Transfer
+1391,21590,929778.72,17,Tolls and Bridge Fees
+1393,11773,416424.43,2,"Grocery Stores, Supermarkets"
+1394,12535,495705.07,2,"Grocery Stores, Supermarkets"
+1397,9057,334603.46,3,"Grocery Stores, Supermarkets"
+1398,17663,910589.62,26,Tolls and Bridge Fees
+1403,19733,1205753.68,1,Taxicabs and Limousines
+1404,5057,212558.79,2,Service Stations
+1405,11302,626072.66,6,"Grocery Stores, Supermarkets"
+1406,7194,160986.5,15,"Grocery Stores, Supermarkets"
+1407,22202,888955.4,15,"Grocery Stores, Supermarkets"
+1411,12260,628152.55,8,Eating Places and Restaurants
+1412,13843,763324.2,6,"Grocery Stores, Supermarkets"
+1413,12253,344290.9,7,Tolls and Bridge Fees
+1416,10310,644567.7,39,Eating Places and Restaurants
+1417,7566,459844.63,31,"Grocery Stores, Supermarkets"
+1421,3641,182676.3,8,Service Stations
+1422,10016,354889.92,14,"Grocery Stores, Supermarkets"
+1424,15412,291772.51,8,Miscellaneous Food Stores
+1425,12457,442658.83,6,Tolls and Bridge Fees
+1427,8445,588094.46,1,"Grocery Stores, Supermarkets"
+1428,15711,112194.02,3,Taxicabs and Limousines
+1429,7738,277668.13,10,"Grocery Stores, Supermarkets"
+1430,7008,437723.94,25,Service Stations
+1432,14124,569910.39,13,Tolls and Bridge Fees
+1433,15834,597933.21,25,Eating Places and Restaurants
+1434,4108,183822.11,19,Service Stations
+1435,18189,758656.37,2,Taxicabs and Limousines
+1437,17570,364996.5,13,Miscellaneous Food Stores
+1439,9453,162677.4,2,Miscellaneous Food Stores
+1442,12844,617056.68,7,"Grocery Stores, Supermarkets"
+1443,13321,627185.32,18,"Betting (including Lottery Tickets, Casinos)"
+1444,12329,943278.9,13,Taxicabs and Limousines
+1445,14000,256968.24,10,Tolls and Bridge Fees
+1446,5822,202614.05,4,Eating Places and Restaurants
+1448,18134,665447.74,1,Tolls and Bridge Fees
+1449,9920,290168.7,3,Miscellaneous Food Stores
+1451,21223,1002701.78,10,"Grocery Stores, Supermarkets"
+1452,25420,948538.64,7,Miscellaneous Food Stores
+1453,19300,498400.33,16,Miscellaneous Food Stores
+1455,8507,217412.64,8,Drinking Places (Alcoholic Beverages)
+1456,12011,738557.48,7,Money Transfer
+1458,5483,265565.11,18,"Grocery Stores, Supermarkets"
+1459,21232,366025.83,12,Service Stations
+1461,12663,301027.4,11,"Grocery Stores, Supermarkets"
+1463,19268,602453.64,2,Miscellaneous Food Stores
+1464,9905,704264.23,6,Money Transfer
+1466,15041,431347.1,6,Taxicabs and Limousines
+1467,9801,399745.25,2,Taxicabs and Limousines
+1470,6288,229462.2,10,"Grocery Stores, Supermarkets"
+1471,7525,317261.33,3,"Grocery Stores, Supermarkets"
+1473,7039,242025.03,5,Miscellaneous Food Stores
+1475,19748,545253.35,12,Miscellaneous Food Stores
+1477,7693,295524.26,15,"Grocery Stores, Supermarkets"
+1478,9274,407818.25,32,Service Stations
+1479,6288,198015.76,6,Miscellaneous Food Stores
+1482,10775,637636.08,11,"Grocery Stores, Supermarkets"
+1484,15813,579217.63,7,Money Transfer
+1485,12299,456846.0,20,Eating Places and Restaurants
+1486,6080,145750.21,8,"Grocery Stores, Supermarkets"
+1487,12982,1141147.24,25,Eating Places and Restaurants
+1488,9351,314904.98,13,"Grocery Stores, Supermarkets"
+1490,10064,350095.73,8,"Grocery Stores, Supermarkets"
+1492,12146,486772.36,19,Eating Places and Restaurants
+1493,7507,606775.86,9,Money Transfer
+1494,3791,97741.16,7,"Grocery Stores, Supermarkets"
+1495,12185,654667.37,13,Eating Places and Restaurants
+1497,9687,417449.15,4,Eating Places and Restaurants
+1498,9487,579550.15,11,"Grocery Stores, Supermarkets"
+1499,3491,150237.99,5,Miscellaneous Food Stores
+1500,11249,442386.07,11,"Grocery Stores, Supermarkets"
+1503,6702,237622.91,25,Service Stations
+1504,8237,302289.01,6,Service Stations
+1507,6540,196874.71,21,Miscellaneous Food Stores
+1508,6660,187636.0,10,"Grocery Stores, Supermarkets"
+1509,13013,332467.64,8,"Grocery Stores, Supermarkets"
+1510,1845,148918.84,8,Drug Stores and Pharmacies
+1511,11743,433799.04,17,"Grocery Stores, Supermarkets"
+1512,11349,413603.28,13,Miscellaneous Food Stores
+1513,13393,671284.29,1,Miscellaneous Food Stores
+1514,6393,277129.59,21,Service Stations
+1515,8426,424091.09,23,Motion Picture Theaters
+1516,15319,555198.13,1,"Grocery Stores, Supermarkets"
+1517,9955,516525.56,11,"Grocery Stores, Supermarkets"
+1518,7556,329802.5,12,"Grocery Stores, Supermarkets"
+1519,11698,320628.47,20,Miscellaneous Food Stores
+1520,14132,796155.79,4,Local and Suburban Commuter Transportation
+1521,5918,210745.92,1,Service Stations
+1523,8564,184809.27,24,Taxicabs and Limousines
+1525,9898,324050.98,9,"Grocery Stores, Supermarkets"
+1526,6150,269949.09,16,Service Stations
+1527,2345,117756.25,7,"Grocery Stores, Supermarkets"
+1528,21808,1211433.38,26,Money Transfer
+1529,18126,627542.18,9,Miscellaneous Food Stores
+1530,4447,61382.83,9,Service Stations
+1531,7439,197100.16,10,Miscellaneous Food Stores
+1533,8873,595501.62,6,"Grocery Stores, Supermarkets"
+1534,19714,1071551.29,7,Taxicabs and Limousines
+1535,9117,363467.54,16,Eating Places and Restaurants
+1538,12456,457432.82,2,Taxicabs and Limousines
+1540,22103,817346.69,18,Tolls and Bridge Fees
+1541,18740,477737.47,16,Taxicabs and Limousines
+1542,6100,183172.86,5,Drinking Places (Alcoholic Beverages)
+1543,20536,1142972.97,19,Tolls and Bridge Fees
+1544,8222,475454.46,7,Taxicabs and Limousines
+1546,7532,302381.13,3,Service Stations
+1549,5855,396748.76,10,Tolls and Bridge Fees
+1551,14095,970849.3,5,Tolls and Bridge Fees
+1552,6979,566491.91,9,"Grocery Stores, Supermarkets"
+1555,2305,113099.94,3,Automotive Service Shops
+1556,5170,228708.36,19,Service Stations
+1557,4596,216337.28,12,"Grocery Stores, Supermarkets"
+1558,13467,874776.88,5,Tolls and Bridge Fees
+1559,30979,839650.97,9,Miscellaneous Food Stores
+1560,5330,265373.58,7,Service Stations
+1561,8978,502767.38,5,"Grocery Stores, Supermarkets"
+1562,6962,213417.38,19,Miscellaneous Food Stores
+1563,14051,395968.91,21,Miscellaneous Food Stores
+1564,8201,236354.58,20,"Grocery Stores, Supermarkets"
+1567,9307,577422.63,11,Money Transfer
+1568,9347,546595.85,12,Eating Places and Restaurants
+1569,8488,373999.34,37,Money Transfer
+1571,6447,400802.31,39,Service Stations
+1575,28314,1425880.4,13,Miscellaneous Food Stores
+1576,13445,546369.21,1,"Grocery Stores, Supermarkets"
+1577,4950,245640.34,8,Service Stations
+1579,8870,310015.82,1,"Grocery Stores, Supermarkets"
+1581,19371,352345.11,8,Miscellaneous Food Stores
+1582,4330,238173.96,2,Tolls and Bridge Fees
+1583,6943,123016.59,7,"Grocery Stores, Supermarkets"
+1584,4649,222430.98,9,Service Stations
+1585,11691,415692.13,25,Automotive Service Shops
+1586,11122,606834.7,10,Eating Places and Restaurants
+1587,11444,1121516.95,2,"Grocery Stores, Supermarkets"
+1589,3044,129939.23,7,Service Stations
+1591,21888,620499.95,12,Tolls and Bridge Fees
+1594,6454,183503.72,4,Automotive Service Shops
+1595,26482,1316382.7,13,Taxicabs and Limousines
+1596,12772,706065.85,19,Tolls and Bridge Fees
+1598,4616,157743.9,1,Service Stations
+1600,10539,559112.46,11,Eating Places and Restaurants
+1602,3831,198414.35,2,Service Stations
+1603,10064,324477.94,5,Eating Places and Restaurants
+1604,24075,407282.63,15,Miscellaneous Food Stores
+1605,8590,420357.35,9,"Grocery Stores, Supermarkets"
+1606,4808,412473.71,6,Eating Places and Restaurants
+1609,8158,428376.61,22,Motor Freight Carriers and Trucking
+1610,12827,294666.54,1,Money Transfer
+1613,10409,546694.27,7,Drinking Places (Alcoholic Beverages)
+1615,6504,346393.93,21,Eating Places and Restaurants
+1616,11546,701188.56,3,Taxicabs and Limousines
+1617,3063,148876.16,11,"Grocery Stores, Supermarkets"
+1618,11199,498106.65,2,"Grocery Stores, Supermarkets"
+1619,5842,198872.82,10,"Grocery Stores, Supermarkets"
+1621,10435,443447.28,8,"Grocery Stores, Supermarkets"
+1622,10762,573911.11,7,"Grocery Stores, Supermarkets"
+1623,8522,254804.1,5,Eating Places and Restaurants
+1626,12680,762450.61,1,Tolls and Bridge Fees
+1629,15038,439163.61,4,Tolls and Bridge Fees
+1633,9228,298001.48,2,Miscellaneous Food Stores
+1634,11853,188547.42,28,"Grocery Stores, Supermarkets"
+1635,10636,275397.66,22,"Grocery Stores, Supermarkets"
+1636,8286,202706.45,27,Miscellaneous Food Stores
+1638,13786,544802.32,20,Eating Places and Restaurants
+1639,12198,986147.78,12,Money Transfer
+1640,4357,252301.29,19,Service Stations
+1642,11874,342734.79,8,"Grocery Stores, Supermarkets"
+1644,13141,482196.68,32,"Grocery Stores, Supermarkets"
+1645,9259,353480.74,2,"Grocery Stores, Supermarkets"
+1646,9761,229994.96,1,Drug Stores and Pharmacies
+1648,21075,1310148.35,18,Automotive Service Shops
+1649,2336,80992.8,41,Telecommunication Services
+1651,16983,1367892.24,2,Money Transfer
+1652,7660,261266.24,9,"Grocery Stores, Supermarkets"
+1654,28070,1264344.36,32,Service Stations
+1656,2943,87871.85,4,Miscellaneous Food Stores
+1659,28482,1014375.59,19,Taxicabs and Limousines
+1660,8089,195865.66,3,Service Stations
+1662,15530,981703.6,0,"Grocery Stores, Supermarkets"
+1664,18237,434717.63,1,Miscellaneous Food Stores
+1666,13145,332016.06,2,Tolls and Bridge Fees
+1668,10315,696020.81,6,"Grocery Stores, Supermarkets"
+1669,6967,363118.57,17,"Grocery Stores, Supermarkets"
+1670,8893,387397.05,11,Miscellaneous Food Stores
+1671,7588,289336.78,3,"Grocery Stores, Supermarkets"
+1672,5913,78959.65,3,Miscellaneous Food Stores
+1674,4925,164900.69,9,Service Stations
+1675,8050,499431.46,4,Service Stations
+1676,10217,430537.73,23,"Grocery Stores, Supermarkets"
+1677,11383,475085.62,3,Eating Places and Restaurants
+1678,9383,405899.88,14,"Grocery Stores, Supermarkets"
+1680,1983,77861.52,10,Service Stations
+1682,8697,334452.84,22,"Grocery Stores, Supermarkets"
+1684,13986,398837.16,1,Tolls and Bridge Fees
+1685,7425,323354.09,3,Miscellaneous Food Stores
+1686,19810,2167880.9,2,"Grocery Stores, Supermarkets"
+1687,19203,865220.83,5,Taxicabs and Limousines
+1692,21518,1273461.97,11,Service Stations
+1693,9531,456131.63,17,"Grocery Stores, Supermarkets"
+1694,10470,580795.07,19,"Grocery Stores, Supermarkets"
+1695,5923,402035.18,10,Service Stations
+1696,30672,1181415.11,1,Service Stations
+1697,10059,278840.98,15,Taxicabs and Limousines
+1699,15251,797962.05,27,Taxicabs and Limousines
+1700,7517,212464.75,8,Miscellaneous Food Stores
+1702,8233,279595.3,18,Drinking Places (Alcoholic Beverages)
+1703,18199,738633.9,9,Taxicabs and Limousines
+1709,6378,270366.15,14,Department Stores
+1710,7008,311163.91,16,Automotive Service Shops
+1712,17173,592750.61,5,Taxicabs and Limousines
+1717,19954,1006744.71,3,Tolls and Bridge Fees
+1718,25890,856419.68,32,Tolls and Bridge Fees
+1719,10394,305933.0,8,"Grocery Stores, Supermarkets"
+1720,8158,631249.7,3,Money Transfer
+1723,6936,269748.78,6,"Grocery Stores, Supermarkets"
+1725,11078,505910.08,38,"Grocery Stores, Supermarkets"
+1727,30827,736981.12,4,Service Stations
+1728,4984,315985.38,1,"Grocery Stores, Supermarkets"
+1730,10799,229320.71,5,Miscellaneous Food Stores
+1731,3783,222069.74,6,Drug Stores and Pharmacies
+1733,9005,416489.58,10,Money Transfer
+1735,8650,239109.77,22,"Grocery Stores, Supermarkets"
+1736,25086,592117.32,11,Service Stations
+1737,10318,269437.03,10,"Grocery Stores, Supermarkets"
+1740,2359,95850.91,12,"Grocery Stores, Supermarkets"
+1741,8626,528506.07,42,"Grocery Stores, Supermarkets"
+1742,9728,361231.22,19,"Grocery Stores, Supermarkets"
+1744,4706,142140.69,7,Service Stations
+1746,5593,446774.24,21,Automotive Service Shops
+1749,3536,156466.76,9,Automotive Service Shops
+1750,10735,730162.12,3,"Grocery Stores, Supermarkets"
+1752,16848,361954.13,6,Service Stations
+1753,7577,389101.16,6,"Grocery Stores, Supermarkets"
+1755,15448,406489.86,4,Tolls and Bridge Fees
+1756,7221,497489.03,2,Service Stations
+1757,9199,264424.58,11,Service Stations
+1758,14944,370615.32,13,Miscellaneous Food Stores
+1759,18236,560718.28,22,"Grocery Stores, Supermarkets"
+1762,3814,174859.12,10,Miscellaneous Food Stores
+1763,9694,316899.41,13,"Grocery Stores, Supermarkets"
+1764,6149,280463.55,15,"Grocery Stores, Supermarkets"
+1765,8999,495794.72,7,"Grocery Stores, Supermarkets"
+1766,4075,169778.36,13,Motion Picture Theaters
+1769,16482,442484.18,15,Automotive Service Shops
+1770,8597,281915.34,2,"Grocery Stores, Supermarkets"
+1771,13442,487106.48,12,"Grocery Stores, Supermarkets"
+1772,17136,658592.49,18,Eating Places and Restaurants
+1774,10144,458950.41,6,Money Transfer
+1775,14726,559933.77,1,Tolls and Bridge Fees
+1776,41350,1331738.89,1,Service Stations
+1777,15945,633972.6,23,Taxicabs and Limousines
+1779,11111,336108.43,14,Eating Places and Restaurants
+1781,6740,187958.87,3,"Grocery Stores, Supermarkets"
+1782,7075,247535.97,2,Service Stations
+1783,11773,283807.28,7,"Grocery Stores, Supermarkets"
+1785,5364,232410.96,20,Department Stores
+1786,17795,357654.76,6,"Grocery Stores, Supermarkets"
+1787,14074,715255.88,11,Tolls and Bridge Fees
+1788,12884,377358.27,10,"Grocery Stores, Supermarkets"
+1789,9798,439198.21,5,Automotive Service Shops
+1791,7050,270796.57,13,Miscellaneous Food Stores
+1793,3954,105881.73,3,Service Stations
+1794,9161,495603.52,19,"Grocery Stores, Supermarkets"
+1797,30326,1353263.37,8,Tolls and Bridge Fees
+1799,18073,711810.14,3,Miscellaneous Food Stores
+1802,18351,1344883.5,6,"Grocery Stores, Supermarkets"
+1805,8668,206472.59,7,"Grocery Stores, Supermarkets"
+1807,19884,914070.6,8,Tolls and Bridge Fees
+1808,7261,264927.87,4,Tolls and Bridge Fees
+1809,17676,668465.22,29,Taxicabs and Limousines
+1810,8081,316687.05,19,"Grocery Stores, Supermarkets"
+1811,19194,1158301.11,14,"Grocery Stores, Supermarkets"
+1812,11889,946061.08,2,Eating Places and Restaurants
+1813,11115,685195.11,5,"Grocery Stores, Supermarkets"
+1815,9847,456404.76,22,"Grocery Stores, Supermarkets"
+1816,6698,258487.57,22,"Grocery Stores, Supermarkets"
+1817,17510,1037401.69,1,Taxicabs and Limousines
+1818,18213,917270.13,8,Taxicabs and Limousines
+1820,4009,215158.18,17,Money Transfer
+1823,8931,680840.4,18,Department Stores
+1825,14135,481875.89,12,"Grocery Stores, Supermarkets"
+1826,7092,80147.82,3,"Grocery Stores, Supermarkets"
+1827,10839,612178.58,14,Drinking Places (Alcoholic Beverages)
+1830,11044,469044.51,9,"Grocery Stores, Supermarkets"
+1833,3673,158732.48,17,"Grocery Stores, Supermarkets"
+1834,7886,293445.67,16,Drug Stores and Pharmacies
+1837,8808,362855.97,7,Service Stations
+1840,14496,330481.31,23,Miscellaneous Food Stores
+1842,13005,550358.04,27,Money Transfer
+1843,20498,811959.37,36,"Grocery Stores, Supermarkets"
+1844,10161,312582.55,27,"Grocery Stores, Supermarkets"
+1846,7011,188903.44,1,"Grocery Stores, Supermarkets"
+1849,11490,424883.56,11,"Grocery Stores, Supermarkets"
+1851,6146,519472.88,42,Service Stations
+1852,17657,708786.22,5,Taxicabs and Limousines
+1853,7875,223481.72,3,"Grocery Stores, Supermarkets"
+1854,6737,472848.81,13,Automotive Service Shops
+1855,9119,439592.69,4,Eating Places and Restaurants
+1856,9200,341420.02,17,Service Stations
+1857,11901,718446.24,19,"Grocery Stores, Supermarkets"
+1858,7701,184966.57,3,"Grocery Stores, Supermarkets"
+1859,9295,339039.42,21,Service Stations
+1861,8275,439605.24,20,Service Stations
+1862,4457,116997.66,4,"Grocery Stores, Supermarkets"
+1863,9315,586625.75,8,Drinking Places (Alcoholic Beverages)
+1871,7921,372677.94,0,Miscellaneous Food Stores
+1872,10019,433479.49,2,Service Stations
+1873,21341,838648.95,2,Tolls and Bridge Fees
+1874,8742,362316.64,0,"Grocery Stores, Supermarkets"
+1875,7594,448275.81,20,"Grocery Stores, Supermarkets"
+1876,4044,211002.37,5,Miscellaneous Food Stores
+1877,13385,962198.11,12,Eating Places and Restaurants
+1879,3827,203616.88,4,Miscellaneous Food Stores
+1880,11049,435389.04,5,"Grocery Stores, Supermarkets"
+1881,15400,286659.65,26,Miscellaneous Food Stores
+1882,5577,390791.44,25,"Grocery Stores, Supermarkets"
+1885,19402,942210.87,11,Automotive Service Shops
+1888,40105,1436784.28,9,Miscellaneous Food Stores
+1891,8956,331743.98,3,"Grocery Stores, Supermarkets"
+1895,9960,368067.03,5,Taxicabs and Limousines
+1896,13978,385691.31,11,"Grocery Stores, Supermarkets"
+1897,14307,695167.96,6,Tolls and Bridge Fees
+1898,12009,523378.75,14,Tolls and Bridge Fees
+1899,7372,209153.91,8,Eating Places and Restaurants
+1901,15808,399788.24,4,Service Stations
+1902,10179,453278.41,21,"Grocery Stores, Supermarkets"
+1903,13290,562944.02,12,Taxicabs and Limousines
+1904,19248,405180.89,25,Service Stations
+1905,4464,189128.2,4,Service Stations
+1908,14371,1100362.67,7,Taxicabs and Limousines
+1909,19426,456019.09,1,Tolls and Bridge Fees
+1910,19022,606959.75,23,Tolls and Bridge Fees
+1913,10655,472526.78,12,"Grocery Stores, Supermarkets"
+1915,14068,894391.66,3,"Grocery Stores, Supermarkets"
+1916,7319,262030.01,9,Service Stations
+1917,12482,779376.04,18,Eating Places and Restaurants
+1918,7620,349547.23,15,Service Stations
+1919,12984,597614.84,9,Service Stations
+1920,16173,820419.82,12,"Grocery Stores, Supermarkets"
+1921,8312,338618.46,7,Service Stations
+1923,8949,325318.8,13,Drinking Places (Alcoholic Beverages)
+1926,9706,299533.76,39,"Grocery Stores, Supermarkets"
+1928,9915,499461.43,25,"Grocery Stores, Supermarkets"
+1931,14973,1009837.45,6,"Grocery Stores, Supermarkets"
+1936,10185,468820.77,4,Taxicabs and Limousines
+1937,9891,587162.46,11,"Grocery Stores, Supermarkets"
+1940,9045,215124.46,16,Drinking Places (Alcoholic Beverages)
+1941,20878,453229.1,1,Service Stations
+1942,5564,53036.53,20,"Grocery Stores, Supermarkets"
+1944,10396,419143.19,28,"Grocery Stores, Supermarkets"
+1945,5188,178694.8,6,Service Stations
+1946,9560,289825.48,10,Miscellaneous Food Stores
+1954,10340,767352.57,1,Money Transfer
+1955,13073,469752.93,14,"Grocery Stores, Supermarkets"
+1956,7435,223041.11,2,Miscellaneous Food Stores
+1957,2849,279804.39,10,Service Stations
+1958,9195,275949.02,20,Miscellaneous Food Stores
+1959,5190,444991.17,9,Service Stations
+1962,11567,584137.89,2,"Grocery Stores, Supermarkets"
+1963,42462,1253911.46,26,Taxicabs and Limousines
+1964,10714,424053.03,8,Automotive Service Shops
+1966,24266,474277.39,3,Automotive Service Shops
+1967,11570,422208.88,15,"Grocery Stores, Supermarkets"
+1969,18538,856939.82,13,Miscellaneous Food Stores
+1971,9932,343794.69,10,"Grocery Stores, Supermarkets"
+1972,8777,171270.66,13,"Grocery Stores, Supermarkets"
+1973,4864,294705.98,22,Automotive Service Shops
+1975,7245,282688.44,1,Tolls and Bridge Fees
+1976,11697,769058.37,7,Tolls and Bridge Fees
+1977,11948,324703.61,21,Miscellaneous Food Stores
+1979,5437,323343.78,23,Service Stations
+1980,5180,268103.57,2,Service Stations
+1981,5634,262638.3,28,Service Stations
+1983,11368,600389.83,2,"Grocery Stores, Supermarkets"
+1985,18889,225513.91,17,Miscellaneous Food Stores
+1986,7045,362558.98,19,"Grocery Stores, Supermarkets"
+1987,4519,220524.43,15,"Grocery Stores, Supermarkets"
+1988,17096,1323029.82,14,Tolls and Bridge Fees
+1989,16290,1251417.73,7,Taxicabs and Limousines
+1992,15455,464370.3,38,Miscellaneous Food Stores
+1993,8698,539047.35,20,"Grocery Stores, Supermarkets"
+1994,9021,430112.77,26,Service Stations
+1995,11867,416625.38,10,Eating Places and Restaurants
+1996,7569,343940.81,13,Eating Places and Restaurants
+1997,10631,592162.39,5,Motor Freight Carriers and Trucking
+1998,3972,74755.47,5,Service Stations
